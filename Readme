@@ -1,0 +1,9 @@
+Created a screen with an infinite scroll for playing videos embedded with a youtube player.
+
+Framework: React Native (preferred), Flutter/Android also works.
+
+API used in list videos with infinite scroll - 
+http://wisdomapp.in/api/v1/content/?page=1&limit=10
+Params:
+page = page number for the API
+limit = size of the results to be returned
